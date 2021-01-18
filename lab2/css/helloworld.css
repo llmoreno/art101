@@ -1,0 +1,26 @@
+h1 {
+  color: #ff80bf;
+  font-size: 500%;
+  font-family: "Sacramento", cursive;
+}
+
+p {
+  font-family: "Times New Roman", serif;
+  text-indent: 30px;
+  font-size: 160%;
+  margin-left: 10px;
+}
+
+body {
+  background-image: url(https://lluviaaizpuru.files.wordpress.com/2019/08/fullsizeoutput_1b12.jpeg);
+}
+
+#content{
+  background-color: #cccccc;
+  width: 420px;
+  min-height: 300px;
+  padding: 10px;
+  margin-left: 50px;
+  border: solid 3px #ffffff;
+  margin-top: 70px;
+}
