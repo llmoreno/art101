@@ -1,0 +1,53 @@
+h1 {
+    font-size: 400%;
+    color: #4d004d;
+    font-family: "Arial", sans-serif;
+    font-weight: bolder;
+}
+
+h2 {
+font-size: 300%;
+color: #4d004d;
+font-family: "Arial", sans-serif;
+font=weight: bolder;
+}
+
+h3 {
+font-size: 200%;
+color: #4d004d;
+font-family:
+}
+
+body {
+  background-color: #f0e2ce;
+}
+
+#challenge{
+  border: solid 2px black;
+  background-color: #dbf3fa;
+  width: 1250px;
+  min-height: 100px;
+  padding: 10px;
+  margin-left: 50px;
+  margin-top: 20px;
+}
+
+#problems{
+  border: solid 2px black;
+  background-color: #ffcccb;
+  width: 1250px;
+  min-height: 200px;
+  padding: 10px;
+  margin-left: 50px;
+  margin-top: 20px;
+}
+
+#results{
+  border: solid 2px black;
+  background-color: #ffffe0;
+  width: 1250px;
+  min-height: 300px;
+  padding: 10px;
+  margin-left: 50px;
+  margin-top: 20px;
+}
