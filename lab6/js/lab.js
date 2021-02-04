@@ -1,8 +1,8 @@
 
 /**
   *lab 6 Arrays and Objects
-  *Author:
-  *Created:
+  *Author: Lluvia Moreno
+  *Created: Jan. 30, 2020
   *License: Public Domain
 **/
 

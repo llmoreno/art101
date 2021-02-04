@@ -1,5 +1,5 @@
 .lab a{
-  color:#ff80bf;
+  color: black;
 }
 img{
   width: 500px;
@@ -24,4 +24,32 @@ ul {
       padding: 10px;
       margin: 10px;
       border: 3px white;
+}
+
+#lab_2{
+  color: red;
+}
+#lab_3{
+  color: orange;
+}
+#lab_4{
+  color: yellow;
+}
+#lab_5{
+  color: green;
+}
+#lab_6{
+  color: blue;
+}
+#lab_7{
+  color: purple;
+}
+#lab_8{
+  color: red;
+}
+#lab_9{
+  color: orange;
+}
+#lab_10{
+  color: yellow;
 }
