@@ -1,0 +1,39 @@
+h1 {
+    font-size: 400%;
+    color: #ccccff;
+    font-family: "Arial", serif;
+    font-weight: bolder;
+}
+
+h2 {
+    font-size: 300%;
+    color:  #b3b3ff;
+    font-family: "Arial", serif;
+    font=weight: bolder;
+}
+
+h3 {
+    font-size: 200%;
+    color:  #b3b3ff;
+    font-family:
+    }
+
+body {
+    background-color: #00004d;
+}
+
+#content {
+  border: solid 6px black;
+  background-color: #000080;
+  width: 1200px;
+  height: 600px;
+  padding: 25px;
+  margin-left: 30px;
+  margin-right: 70px;
+  margin-top: 20px;
+}
+
+p {
+  font-size: 150%;
+  color: white;
+}
