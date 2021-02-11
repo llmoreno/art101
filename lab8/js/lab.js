@@ -32,7 +32,7 @@ setTimeout (function (){
   thirdThing("TEST 2");
 }, 0);
 
-//Calling the functions out of order (test 3):
+//Calling the functions out of order- 2, 3, 1. (test 3):
 setTimeout (function (){
   firstThing("TEST 3");
 }, 3000);
@@ -42,3 +42,5 @@ setTimeout (function (){
 setTimeout (function (){
   thirdThing("TEST 3");
 }, 2000);
+
+document.writeln(firstThing + ": This is our test.");
