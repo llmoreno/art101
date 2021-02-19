@@ -1,0 +1,42 @@
+.sectionbox {
+  border: solid 6px black;
+  background-color: #cceeff;
+  width: 1000px;
+  padding: 25px;
+  margin-left: 30px;
+  margin-right: 70px;
+  margin-top: 20px;
+}
+
+.special {
+  background-color: #FD5B78;
+}
+
+h1 {
+    font-size: 400%;
+    color: #ccccff;
+    font-family: "Arial", serif;
+    font-weight: bolder;
+    margin-left: 30px;
+}
+
+h2 {
+    font-size: 300%;
+    color: #9900cc;
+    font-family: "Arial", serif;
+}
+
+h3 {
+    font-size: 300%;
+    color:  #9900cc;
+    font-family:"Arial", serif;
+    }
+
+body {
+    background-color: black;
+}
+
+p {
+  font-size: 150%;
+  color: black;
+}
