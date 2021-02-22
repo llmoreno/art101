@@ -1,0 +1,37 @@
+h1 {
+    font-size: 400%;
+    color:  #4d004d;
+    font-family: "Arial", serif;
+    font-weight: bolder;
+    margin-left: 30px;
+}
+
+h2 {
+    font-size: 300%;
+    color: black;
+    font-family: "Arial", serif;
+}
+
+body {
+    background-color: #ffe6ff;
+}
+
+.sectionbox {
+  border: solid 6px black;
+  background-color: #cceeff;
+  width: 1000px;
+  padding: 25px;
+  margin-left: 30px;
+  margin-right: 70px;
+  margin-top: 20px;
+}
+
+p {
+  font-size: 150%;
+  color: black;
+}
+
+img{
+  height: 300px;
+  margin-left: 450px;
+}
