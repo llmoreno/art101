@@ -16,6 +16,7 @@ h1 {
     color:  #4d004d;
     font-family: "Arial", serif;
     font-weight: bolder;
+    margin-left: 25px;
 }
 
 h2 {
@@ -31,7 +32,7 @@ h3 {
     }
 
 body {
-    background-color: #00b386;
+    background-color: BlanchedAlmond;
 }
 
 .sectionbox {
