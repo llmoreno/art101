@@ -1,0 +1,47 @@
+h1 {
+    font-size: 400%;
+    color: #ffddcc;
+    font-family: "Arial", serif;
+    font-weight: bolder;
+    margin-left: 30px;
+}
+
+h2 {
+    font-size: 300%;
+    color:  #ff3333;
+    font-family: "Arial", serif;
+    font=weight: bolder;
+}
+
+h3 {
+    font-size: 200%;
+    color:  #ff3333;
+    font-family:
+    }
+
+body {
+    background-color: #FBBB62;
+}
+
+.sectionbox {
+  border: solid 6px black;
+  background-color: white;
+  width: 1200px;
+  padding: 25px;
+  margin-left: 30px;
+  margin-right: 70px;
+  margin-top: 20px;
+}
+
+p {
+  font-size: 150%;
+  color: black;
+}
+
+#output{
+  padding-top: 20px;
+}
+
+#output-image {
+  width: 40%
+}
